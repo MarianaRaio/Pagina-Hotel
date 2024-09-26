@@ -1,0 +1,24 @@
+{
+  "reserva": [
+    {
+      "id": "d9f4",
+      "nome": "Mariana Da Rocha Raio",
+      "email": "marianaraiooo@gmail.com",
+      "dataEntrada": "2024-09-20",
+      "dataSaida": "2024-09-25",
+      "observacoes": "",
+      "adultos": "2",
+      "criancas": "1"
+    },
+    {
+      "id": "f863",
+      "nome": "kevin ",
+      "email": "kevin@gmail.com",
+      "dataEntrada": "2024-09-27",
+      "dataSaida": "2024-10-07",
+      "observacoes": "",
+      "adultos": "2",
+      "criancas": "1"
+    }
+  ]
+}
